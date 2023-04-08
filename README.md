@@ -1,4 +1,3 @@
-
 <body>
     <h1>Projeto de Estudantes: Análise do Desempenho em Provas</h1>
     <p>Este é um projeto de análise do desempenho de estudantes em provas, com base em dados coletados de um conjunto de dados (inserir nome do conjunto de dados ou fonte dos dados). O objetivo deste projeto é investigar possíveis diferenças de desempenho entre estudantes de diferentes gêneros, raças/etnias e níveis de escolaridade dos pais.</p>
